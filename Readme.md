@@ -1,3 +1,5 @@
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dpellegrini)
+
 ## 📈 - GitHub Stats
 [![Dario Pellegrini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariopellegrini&theme=graywhite&show_icons=true)](https://github.com/dariopellegrini)
 
@@ -26,9 +28,3 @@
 <a href="https://app.italynowadays.it" target="_blank"><img src="https://app.italynowadays.it/assets/appicon.png" width="120px" height="120px" /></a>  
 **<a href="https://apps.apple.com/it/app/italy-nowadays/id1581280209" target="_blank">iOS</a> & <a href="https://play.google.com/store/apps/details?id=com.dariopellegrini.italynowadays" target="_blank">Android</a>**  
 News from the world, updated, fast, safe
-
-<br>
-<br>
-<br>
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dpellegrini)
