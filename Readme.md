@@ -29,5 +29,4 @@ News from the world, updated, fast, safe
 
 
 ---
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
