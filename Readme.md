@@ -27,4 +27,5 @@
 **<a href="https://apps.apple.com/it/app/italy-nowadays/id1581280209" target="_blank">iOS</a> & <a href="https://play.google.com/store/apps/details?id=com.dariopellegrini.italynowadays" target="_blank">Android</a>**  
 News from the world, updated, fast, safe
 
+## Buy me a coffee
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
