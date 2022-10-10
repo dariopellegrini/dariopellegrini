@@ -19,7 +19,7 @@
 [![DeclarativeRecycler](https://github-readme-stats.vercel.app/api/pin/?username=dariopellegrini&repo=DeclarativeRecycler)](https://github.com/dariopellegrini/DeclarativeRecycler)
 
 ### 🖥 - Backend
-[![KDone](https://github-readme-stats.vercel.app/api/pin/?username=dariopellegrini&repo=KDone)](https://dariopellegrini.github.io/kdone-website)
+[![KDone](https://github-readme-stats.vercel.app/api/pin/?username=dariopellegrini&repo=KDone)](https://github.com/dariopellegrini/KDone)
 
 ## Projects
 ### Italy Nowadays
