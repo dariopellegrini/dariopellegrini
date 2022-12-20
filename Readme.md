@@ -1,5 +1,6 @@
 ## 📈 - GitHub Stats
 [![Dario Pellegrini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariopellegrini&theme=graywhite&show_icons=true)](https://github.com/dariopellegrini)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariopellegrini)](https://github.com/dariopellegrini/github-readme-stats)
 
 ## 🛠 - Featured Repositories
