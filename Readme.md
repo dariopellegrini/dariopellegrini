@@ -1,6 +1,6 @@
 # 🛠 - Featured Repositories
 ## 🍎 - iOS
-[![StorageDone-iOS](https://github-readme-stats.vercel.app/api/pin/?username=dariopellegrini&repo=StorageDone-iOS)](https://github.com/dariopellegrini/StorageDone-iOS)
+[![StorageDone-iOS](https://ghstats.dev/api/pin?username=dariopellegrini&repo=StorageDone-iOS)](https://github.com/dariopellegrini/StorageDone-iOS)
 
 [![Cobb](https://github-readme-stats.vercel.app/api/pin/?username=dariopellegrini&repo=Cobb)](https://github.com/dariopellegrini/Cobb)
 
